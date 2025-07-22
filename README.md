@@ -33,38 +33,35 @@ Here are some of the technologies and languages I work with or am actively learn
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Lombok](https://img.shields.io/badge/Lombok-ED1C24?style=for-the-badge&logo=lombok&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ---
 
 ### GitHub Stats 📊
 
-<!--
-You can use a tool like 'GitHub Readme Stats' by @anuraghazra
-to dynamically generate these. For now, this is a placeholder.
-Example: https://github.com/anuraghazra/github-readme-stats
--->
+## 📊 GitHub Stats:
 
-![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![yenda420's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yenda420&show_icons=true&theme=dark&count_private=true&hide=prs,issues&hide_border=true)
 
 ---
 
 ### Most Used Languages 📈
 
-<!--
-This can also be dynamically generated using 'GitHub Readme Stats'.
-Example: https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark&hide_border=true
--->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yenda420&layout=compact&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark&hide_border=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yenda420&theme=onedark&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
