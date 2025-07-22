@@ -1,14 +1,14 @@
-# Hi there, I'm Jan! 👋
+# 👋 Hey, I'm Jan Novotný 👋
 
 ---
 
-### About Me 📚
+### 📚 About Me 
 
 I'm a 20-year-old student from **FIT ČVUT, Prague** and aspiring developer, primarily focused on **backend development**. My goal is to build robust and efficient solutions that bring ideas to life.
 
 ---
 
-### My Interests, Skills & Experience 💻
+### 💡 My Interests, Skills & Experience 
 
 My core interest lies in **backend programming**, where I find satisfaction in building robust and efficient systems. I am keen on expanding my knowledge of languages and frameworks; currently, my main focus is **Java** and actively learning **Spring Boot** for scalable web applications and APIs. I also explore **Artificial Intelligence**, concentrating on effective prompting, leveraging AI for productivity, and integrating AI tools into my development environment.
 
@@ -18,7 +18,7 @@ My repositories contain school assignments, personal coding exercises, and pract
 
 ---
 
-### Tech Stack 🖥️
+### 🖥️ Tech Stack 
 
 Here are some of the technologies and languages I work with or am actively learning:
 
@@ -41,32 +41,30 @@ Here are some of the technologies and languages I work with or am actively learn
 
 ---
 
-### GitHub Stats 📊
-
-## 📊 GitHub Stats:
+### 📊 GitHub Stats 
 
 ![yenda420's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yenda420&show_icons=true&theme=dark&count_private=true&hide=prs,issues&hide_border=true)
 
 ---
 
-### Most Used Languages 📈
+### 📈 Most Used Languages 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yenda420&layout=compact&theme=dark&hide_border=true)
 
 ---
 
-### Socials 🔗
+### 🔗 Socials 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/honzycek_)
 
 ---
 
-### Looking Ahead 🚀
+### 🚀 Looking Ahead 
 
 I am eager to explore diverse challenges within backend development (or other domains) and continuously expand my skill set. While I am still discovering specific niches, I am committed to building a strong foundation in core backend principles, modern technologies, and the evolving field of AI integration.
 
 ---
 
-### Future Goals & Collaboration 🚀🤝
+### 🚀 Future Goals & Collaboration 
 
 I am eager to explore diverse challenges within development and continuously expand my skill set. While still discovering specific niches, I am committed to building a strong foundation in core backend principles, modern technologies, and the evolving field of AI integration. Feel free to explore my repositories, or reach out if you have any questions, ideas for collaboration, or wish to connect!
