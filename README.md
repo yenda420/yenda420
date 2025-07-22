@@ -4,27 +4,17 @@
 
 ### About Me 📚
 
-I'm a 20-year-old student focused on development, primarily in backend systems, and dedicated to bringing ideas to life through code. My IT journey began at **SPŠEI Ostrava**, where I concentrated on programming. I am now continuing my academic path at **FIT ČVUT Prague**, eager to deepen my understanding of computer science.
+I'm a 20-year-old student from **FIT ČVUT, Prague** and aspiring developer, primarily focused on **backend development**. My goal is to build robust and efficient solutions that bring ideas to life.
 
 ---
 
-### My Interests & What I'm Learning 💻
+### My Interests, Skills & Experience 💻
 
-My primary area of interest lies in **backend programming**. I find satisfaction in the process of **building robust and efficient systems** that power applications from behind the scenes.
+My core interest lies in **backend programming**, where I find satisfaction in building robust and efficient systems. I am keen on expanding my knowledge of languages and frameworks; currently, my main focus is **Java** and actively learning **Spring Boot** for scalable web applications and APIs. I also explore **Artificial Intelligence**, concentrating on effective prompting, leveraging AI for productivity, and integrating AI tools into my development environment.
 
-I am keen on learning new languages and frameworks. My current focus is **Java**, and I am actively engaged in learning **Spring Boot** to create scalable web applications and APIs.
+I approach challenges by **thinking through problems** and devising effective solutions, and I value **collaboration**. My professional journey includes experience at **Apertia Tech s. r. o.** (gaining **JavaScript**, **PHP**, and **AI** automation skills), school practices at **K2 atmitec s.r.o.** and **Unicorn a.s.** (Ostrava), and an Erasmus+ practice at **TechBase** (Braga, Portugal). Currently, I am working for a freelancer developing a web application with **Spring Boot**.
 
-I also explore the use of **Artificial Intelligence**, specifically focusing on effective prompting, leveraging AI for productivity, and integrating AI tools into my development environment.
-
-My professional experience includes working at **Apertia Tech s. r. o.**, where I gained valuable experience with **JavaScript** and **PHP** and learned to leverage AI to automate various coding tasks. I also completed school practices at **K2 atmitec s.r.o.** and **Unicorn a.s.** in Ostrava, and an Erasmus+ program practice at **TechBase** in Braga, Portugal. Currently, I am working for a freelancer, developing a web application using **Spring Boot**.
-
----
-
-### My Approach & Skills ✨
-
-I approach challenges by **thinking through problems** and devising effective solutions. I value **collaboration**, recognizing that working with others often leads to enhanced outcomes and insights.
-
-My repositories contain school assignments, personal coding exercises, and practical projects. These demonstrate my hands-on approach and reflect my coding progress throughout my learning journey.
+My repositories contain school assignments, personal coding exercises, and practical projects, which demonstrate my hands-on approach and coding progress.
 
 ---
 
@@ -77,6 +67,6 @@ I am eager to explore diverse challenges within backend development (or other do
 
 ---
 
-### Let's Connect! 🤝
+### Future Goals & Collaboration 🚀🤝
 
-Feel free to explore my repositories. If you have any questions, ideas for collaboration, or wish to connect, please do not hesitate to reach out!
+I am eager to explore diverse challenges within development and continuously expand my skill set. While still discovering specific niches, I am committed to building a strong foundation in core backend principles, modern technologies, and the evolving field of AI integration. Feel free to explore my repositories, or reach out if you have any questions, ideas for collaboration, or wish to connect!
