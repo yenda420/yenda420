@@ -59,12 +59,6 @@ Here are some of the technologies and languages I work with or am actively learn
 
 ---
 
-### 🚀 Looking Ahead 
-
-I am eager to explore diverse challenges within backend development (or other domains) and continuously expand my skill set. While I am still discovering specific niches, I am committed to building a strong foundation in core backend principles, modern technologies, and the evolving field of AI integration.
-
----
-
 ### 🚀 Future Goals & Collaboration 
 
 I am eager to explore diverse challenges within development and continuously expand my skill set. While still discovering specific niches, I am committed to building a strong foundation in core backend principles, modern technologies, and the evolving field of AI integration. Feel free to explore my repositories, or reach out if you have any questions, ideas for collaboration, or wish to connect!
