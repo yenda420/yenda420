@@ -43,13 +43,13 @@ Here are some of the technologies and languages I work with or am actively learn
 
 ### 📊 GitHub Stats 
 
-(https://github-readme-stats.vercel.app/api?username=yenda420&show_icons=true&theme=dark&count_private=true&hide=prs,issues&hide_border=true)
+![yenda420's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yenda420&show_icons=true&theme=dark&count_private=true&hide=prs,issues&hide_border=true)
 
 ---
 
 ### 📈 Most Used Languages 
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=yenda420&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yenda420&layout=compact&theme=dark&hide_border=true)
 
 ---
 
