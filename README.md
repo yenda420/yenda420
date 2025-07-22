@@ -4,7 +4,7 @@
 
 ### About Me 📚
 
-I'm a 20-year-old student focused on development, primarily in backend systems, and dedicated to bringing ideas to life through code. My IT journey began at **SPSEI Ostrava**, where I concentrated on programming. I am now continuing my academic path at **FIT ČVUT Prague**, eager to deepen my understanding of computer science.
+I'm a 20-year-old student focused on development, primarily in backend systems, and dedicated to bringing ideas to life through code. My IT journey began at **SPŠEI Ostrava**, where I concentrated on programming. I am now continuing my academic path at **FIT ČVUT Prague**, eager to deepen my understanding of computer science.
 
 ---
 
@@ -14,7 +14,7 @@ My primary area of interest lies in **backend programming**. I find satisfaction
 
 I am keen on learning new languages and frameworks. My current focus is **Java**, and I am actively engaged in learning **Spring Boot** to create scalable web applications and APIs.
 
-I also explore the use of **Artificial Intelligence**, specifically focusing on effective prompting, leveraging AI for productivity, and integrating AI tools into my development environment.
+I also explore the use of **Artificial Intelligence**, specifically focusing on effective prompting, leveraging AI for productivity, integrating AI tools into my development environment and so on.
 
 ---
 
@@ -61,13 +61,11 @@ Here are some of the technologies and languages I work with or am actively learn
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yenda420&layout=compact&theme=dark&hide_border=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yenda420&theme=onedark&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 ### Socials 🔗
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/your_instagram_handle)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/honzycek_)
 
 ---
 
