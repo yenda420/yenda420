@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Jan Novotný 👋
+# 👋 Hey, I'm Jan Novotný 
 
 ---
 
