@@ -14,7 +14,9 @@ My primary area of interest lies in **backend programming**. I find satisfaction
 
 I am keen on learning new languages and frameworks. My current focus is **Java**, and I am actively engaged in learning **Spring Boot** to create scalable web applications and APIs.
 
-I also explore the use of **Artificial Intelligence**, specifically focusing on effective prompting, leveraging AI for productivity, integrating AI tools into my development environment and so on.
+I also explore the use of **Artificial Intelligence**, specifically focusing on effective prompting, leveraging AI for productivity, and integrating AI tools into my development environment.
+
+My professional experience includes working at **Apertia Tech s. r. o.**, where I gained valuable experience with **JavaScript** and **PHP** and learned to leverage AI to automate various coding tasks. I also completed school practices at **K2 atmitec s.r.o.** and **Unicorn a.s.** in Ostrava, and an Erasmus+ program practice at **TechBase** in Braga, Portugal. Currently, I am working for a freelancer, developing a web application using **Spring Boot**.
 
 ---
 
