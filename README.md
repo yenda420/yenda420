@@ -20,7 +20,7 @@ My repositories contain school assignments, personal coding exercises, and pract
 
 ### 🖥️ Tech Stack 
 
-Here are some of the technologies and languages I work with or am actively learning:
+Here are some of the technologies and languages I work with and / or am actively learning:
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
